@@ -1,0 +1,14 @@
+.film-container {
+    padding: 120px 0px;
+}
+
+.button-container-2 {
+    position: relative;
+}
+
+.details-btn {
+    position: absolute !important;
+    bottom: 0;
+    right: 0;
+    padding: 8px !important;
+}
